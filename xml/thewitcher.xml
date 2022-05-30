@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<thewitcher>
+  <personajes>
+    <brujos>
+      Geralt, Ciri
+    </brujos>
+    <hechiceras>
+      Yeneffer, Triss
+    </hechiceras>
+  </personajes>
+  <regiones>
+    <cintra>
+      Attre
+    </cintra>
+    <kaedwen>
+      Hertch
+    </kaedwen>
+    <redania>
+      Tierras de la Orden
+    </redania>
+    <temeria>
+      Brugge
+    </temeria>
+  </regiones>
+</thewitcher>
